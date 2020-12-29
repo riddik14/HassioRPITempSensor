@@ -1,5 +1,5 @@
 {
-  "name": "RPI Temp Monitor",
-  "url": "https://github.com/adamoutler/HassioRPITempSensor",
-  "maintainer": "Adam Outler <adamoutler@adamoutler.com>"
+  "name": "RPI Temp Monitor Centigrade",
+  "url": "https://github.com/riddik14/HassioRPITempSensor",
+  "maintainer": "Domenico Ceccarelli"
 }
