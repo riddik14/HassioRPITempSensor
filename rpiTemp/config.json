@@ -2,7 +2,7 @@
   "name": "RPi Temp Monitor",
   "version": "0.1",
   "slug": "rpi_temp_mon",
-  "description": "Questo AddOn restituisce un sensore tempratura in centigradi per il tuo hassio",
+  "description": "Questo AddOn restituisce un sensore temperatura in centigradi per il tuo hassio",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "hassio_api": true,
   "host_network": true,
